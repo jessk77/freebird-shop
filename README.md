@@ -1,6 +1,5 @@
 # Freebird Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 LIVE DEMO: [https://freebird-live.herokuapp.com/](https://freebird-live.herokuapp.com/)
 
 This project has two important parts: \
